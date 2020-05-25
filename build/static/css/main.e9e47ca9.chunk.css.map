@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,gBACE,UAAY,CACZ,cAAe,CACf,gBACF,CAEA,cACE,UAAY,CACZ,cAAe,CACf,cACF","file":"main.e9e47ca9.chunk.css","sourcesContent":[".successMessage {\n  color: white;\n  font-size: 32px;\n  background: green;\n}\n\n.errorMessage {\n  color: white;\n  font-size: 32px;\n  background: red;\n}"]}

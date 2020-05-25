@@ -1,0 +1,27 @@
+# GET http://localhost:3001/api/notes
+
+# POST http://localhost:3001/api/persons
+# // CANNOT have a blank line here, or else content type will be blank
+# Content-Type: application/json
+
+# {
+#     "name": "Ada Lovelace",
+#     "number": "040-1231236"
+# }
+
+# GET http://localhost:3001/api/persons
+
+DELETE http://localhost:3001/api/persons/5ec575215d03082600d21cea
+
+
+# GET https://still-temple-41173.herokuapp.com/api/persons
+
+# PUT http://localhost:3001/api/persons/5ec575215d03082600d21cea
+# Content-Type: application/json
+
+# {   
+#     "name": "meer",
+#     "number": 912213233
+# }
+
+# GET http://localhost:3001/api/persons/5c41c90e84d891c15dfa3431 
